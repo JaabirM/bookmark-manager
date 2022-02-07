@@ -8,14 +8,23 @@ The user stories are created by myself based on the specifications given by Make
 
 Specifications:
 
--Show a list of bookmarks
+-Show a list of bookmarks 
+
 -Add new bookmarks
+
 -Delete bookmarks
+
 -Update bookmarks
+
 -Comment on bookmarks
+
 -Tag bookmarks into categories
+
 -Filter bookmarks by tag
+
 -Users are restricted to manage only their own bookmarks
+
+![alt](bookmark_diagram.jpg)
 
 The user stories are:
 
