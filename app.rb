@@ -8,8 +8,12 @@ class Bookmark < Sinatra::Base
   end
 
   get '/' do
-    "Hello world!"
+    erb :index
   end
-  
+
+  get '/test' do
+    "This website page works!"
+  end
+
   run! if app_file == $0
 end
