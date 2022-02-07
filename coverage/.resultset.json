@@ -19,13 +19,24 @@
           1,
           1,
           null,
+          1,
           null,
           1,
+          null,
+          null,
+          1,
+          0,
+          null,
+          null,
+          1,
+          null,
           null
         ]
       },
-      "/Users/jaabiryusuf/Projects/bookmark-manager/spec/features/web_test_spec.rb": {
+      "/Users/jaabiryusuf/Projects/bookmark-manager/spec/features/view_bookmarks_spec.rb": {
         "lines": [
+          1,
+          1,
           1,
           1,
           1,
@@ -36,6 +47,6 @@
         ]
       }
     },
-    "timestamp": 1644248724
+    "timestamp": 1644251896
   }
 }
